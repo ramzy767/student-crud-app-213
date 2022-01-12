@@ -1,2 +1,3 @@
-# student-crud-app-213
-Lab 11 CRUD App
+# Student CRUD App-213 - NodeJs, Express, MongoDB and EJS
+
+CRUD app developed using NodeJs, Express, MongoDB and EJS.
